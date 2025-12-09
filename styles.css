@@ -146,7 +146,7 @@ button {
 }
 
 #log-in-paragraph {
-  font-size: calc(1rem + 0.5vh);
+  font-size: calc(0.5rem + 1vh);
 }
 
 #log-in {
